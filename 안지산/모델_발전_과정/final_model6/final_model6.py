@@ -7,8 +7,6 @@
 - 이미지: YOLO로 객체 탐지 + CLIP으로 맥락 이해 + MLP로 분류
 - 비디오: YOLO + SlowFast로 행동 인식 + CLIP + Transformer로 시계열 분석
 
-작성자: 박상원
-작성일: 2025년 2학기
 """
 
 # 기본 라이브러리
