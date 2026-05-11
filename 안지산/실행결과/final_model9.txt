@@ -1,4 +1,4 @@
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>python final_model9.py
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>python final_model9.py
 ============================================================
 무하유 유해 콘텐츠 탐지 시스템 - 행동 인식 확장 버전 9
 ============================================================
@@ -382,4 +382,4 @@ Early stopping at epoch 3, best F1: 0.9197
 ✓ 로그 파일: train_log_20251026_040407.txt
 ============================================================
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>final_model8
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>final_model8
