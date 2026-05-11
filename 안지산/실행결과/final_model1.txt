@@ -1,9 +1,9 @@
 Microsoft Windows [Version 10.0.26100.6584]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\psw20>cd C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유
+C:\Users\ahnji>cd C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>python final_model.py
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>python final_model.py
 
 ============================================================
 무하유 유해 콘텐츠 탐지 시스템
@@ -385,6 +385,6 @@ Epoch 3/3
   - video_model_best.pth
   - image_confusion_matrix.png
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>^A
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>^A
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>  
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>  
