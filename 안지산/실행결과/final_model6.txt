@@ -1,4 +1,4 @@
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>python final_model6.py
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>python final_model6.py
 
 ============================================================
 무하유 유해 콘텐츠 탐지 시스템 - 개선 버전 6
@@ -338,4 +338,4 @@ Early stopping at epoch 5, best F1: 0.9578
 
 ✓ 로그 파일이 정상적으로 저장되었습니다: train_log_20251023_141615.txt
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>
