@@ -1,4 +1,4 @@
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>python final_model5.py
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>python final_model5.py
 
 ============================================================
 무하유 유해 콘텐츠 탐지 시스템
@@ -372,4 +372,4 @@ Early stopping at epoch 7, best F1: 0.9584
   - video_confusion_matrix.png
 로그 파일이 정상적으로 저장되었습니다.
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>
