@@ -1,4 +1,4 @@
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>python final_model_11_v.py
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>python final_model_11_v.py
 ✓ 재현성 보장: Seed 고정 완료 (SEED=42)
 ============================================================
 무하유 유해 콘텐츠 탐지 시스템 - 최종 버전
