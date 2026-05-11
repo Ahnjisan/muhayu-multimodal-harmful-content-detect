@@ -1,4 +1,4 @@
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>python final_model10.py
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>python final_model10.py
 ✓ 재현성 보장: Seed 고정 완료 (SEED=42)
 ============================================================
 무하유 유해 콘텐츠 탐지 시스템 - 최적화 버전 10
@@ -386,4 +386,4 @@ Early stopping at epoch 6 (Val Loss 기준)
 ✓ 로그 파일: train_log_20251027_165556.txt
 ============================================================
 
-C:\Users\psw20\OneDrive\바탕 화면\PSW\한국항공대학교_3-2\무하유>
+C:\Users\ahnji\OneDrive\바탕 화면\안지산\한국항공대학교\무하유>
